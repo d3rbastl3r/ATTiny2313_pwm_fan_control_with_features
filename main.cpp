@@ -7,6 +7,9 @@
  * Via a sensor the temperature status of the transistor can be monitored / recognized and the fan will slowed down or
  * turned of if the maximum temperature is reached.
  *
+ * Ports:
+ * `-> PB2 (OC0A): PWM Output for fan speed
+ *
  * @author Igor Martens
  * @since 01.10.2018
  */
