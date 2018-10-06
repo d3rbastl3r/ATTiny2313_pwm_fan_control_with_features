@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538833164 source:/home/d3rbastl3r/workspace/codeblocks/ATTiny2313_pwm_fan_control_with_features/main.cpp
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"EightSegmentCtrl.h"
+
+1538833330 /home/d3rbastl3r/workspace/codeblocks/ATTiny2313_pwm_fan_control_with_features/EightSegmentCtrl.h
+
